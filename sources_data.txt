@@ -1,0 +1,5 @@
+BeeGIS :  https://www.data.gouv.fr/fr/reuses/beegis-bee-geographic-information-system/
+
+produit similaire : https://frelonasiatique.mnhn.fr/
+
+inaturalist : https://www.inaturalist.org/observations?subview=map&taxon_id=54328

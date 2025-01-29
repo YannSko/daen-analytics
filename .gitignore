@@ -1,0 +1,23 @@
+# Ignore Python virtual environments
+venv/
+.venv/
+env/
+.env/
+/abeilles/ 
+# Ignore environment variables and secrets
+.env
+
+# Ignore activation script
+activation.txt
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE/editor settings
+.vscode/
+*.log
+
+
